@@ -1,0 +1,43 @@
+.introduce{
+    width:100%;
+    height: 100vh;
+    background-image: linear-gradient(#547,#731,#147);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.introduce-container{
+    max-width: 500px;
+    width: 100%;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    border: 2px solid transparent;
+    border-radius: 24px;
+
+}
+.introduce-container img{
+    border-radius: 24px;
+    padding: 1rem;
+}
+.introduce-btn{
+    width:200px;
+    height: 40px;
+    padding: .3rem;
+    font-size: 20px;
+    background-color: #543;
+    color: antiquewhite;
+    border: 1px solid transparent;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:1rem;
+    cursor: pointer;
+
+
+}

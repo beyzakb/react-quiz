@@ -1,0 +1,14 @@
+.dropdown{
+
+ }
+.dropdown select{
+    width: 220px;
+    height: 40px;
+    border: 2px solid rgb(30, 144, 244);
+    border-radius: 18px;
+    box-shadow: 0.5px 0.5px 0.5px ;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+
+ }
