@@ -1,0 +1,29 @@
+.modal{
+    text-align: center;
+
+}
+.modal-title{
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 13px;
+    color: bisque;
+}
+
+
+.modal-btn{
+    width:200px;
+    height: 40px;
+    padding: .3rem;
+    font-size: 20px;
+    background-color:brown;
+    color: antiquewhite;
+    border: 1px solid transparent;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:1rem;
+    cursor: pointer;
+
+
+}

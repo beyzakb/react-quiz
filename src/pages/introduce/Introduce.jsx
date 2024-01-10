@@ -9,7 +9,7 @@ const Introduce = () => {
     const [difficultyChange, setDifficultyChange] =useState('');
     console.log(difficultyChange)
     const navigate = useNavigate();
-    const Total_Questions = 7;
+    const Total_Questions = 10;
 
     const startQuiz = () => {
         if(difficultyChange){
